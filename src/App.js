@@ -5,10 +5,12 @@ import Usuario from './componentes/Usuario';
 function App() {
   return (
     <div className="App">
-        <Usuario nombre="Cecilia Bonfanti" cargo="FrontEnd Developer" conoceme="Cv de Cecilia"/>
-        <Usuario nombre="Brian Corpus" cargo="Consultor Contable" conoceme="Cv de 
+        <div className='d-flex justify-content-center aling-items-center' style={{height: "100vh"}}>
+        <Usuario imagen={require('./componentes/img/fotoparacard1.jpeg')}nombre="Cecilia Bonfanti" cargo="FrontEnd Developer" conoceme="Cv de Cecilia"/>
+        <Usuario imagen={require('./componentes/img/fotoparacard2.jpeg')}nombre="Brian Corpus" cargo="Consultor Contable" conoceme="Cv de 
         Brian"/>
-        <Usuario nombre="Ludmila Bonfanti" cargo="Encargada de Marketing" conoceme="Cv de Ludmila"/>
+        <Usuario imagen={require('./componentes/img/fotoparacard3PNG.jpeg')}nombre="Ludmila Bonfanti" cargo="Encargada de Marketing" conoceme="Cv de Ludmila"/>
+        </div>
     </div>
   );
 }
