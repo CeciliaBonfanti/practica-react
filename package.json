@@ -2,7 +2,7 @@
   "name": "primerapp-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://CeciliaBonfanti.github.io/practica-react",
+  "homepage": "https://ceciliabonfanti.github.io/practica-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
