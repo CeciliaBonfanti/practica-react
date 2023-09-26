@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/practica-react/static/css/main.2c80c4a8.css",
+    "main.css": "/practica-react/static/css/main.2f4a2657.css",
     "main.js": "/practica-react/static/js/main.a8f98745.js",
     "static/js/787.01e7e350.chunk.js": "/practica-react/static/js/787.01e7e350.chunk.js",
+    "static/media/background.jpg": "/practica-react/static/media/background.2dfe21213adde00b4d21.jpg",
     "static/media/fotoparacard3PNG.jpeg": "/practica-react/static/media/fotoparacard3PNG.fb3d736613db8d00c99a.jpeg",
     "static/media/fotoparacard1.jpeg": "/practica-react/static/media/fotoparacard1.f8c482f70543b29c5432.jpeg",
     "static/media/fotoparacard2.jpeg": "/practica-react/static/media/fotoparacard2.eabe2f5078ae7ec81768.jpeg",
     "static/media/logo.svg": "/practica-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/practica-react/index.html",
-    "main.2c80c4a8.css.map": "/practica-react/static/css/main.2c80c4a8.css.map",
+    "main.2f4a2657.css.map": "/practica-react/static/css/main.2f4a2657.css.map",
     "main.a8f98745.js.map": "/practica-react/static/js/main.a8f98745.js.map",
     "787.01e7e350.chunk.js.map": "/practica-react/static/js/787.01e7e350.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c80c4a8.css",
+    "static/css/main.2f4a2657.css",
     "static/js/main.a8f98745.js"
   ]
 }
