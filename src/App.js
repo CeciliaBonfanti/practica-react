@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import Usuario from './componentes/Usuario';
 import './index.css'
 
@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <section className='section'>
-      <h1 className='titulo'>NUESTROS POSTULANTES</h1>
+        <h1 className='titulo'>NUESTROS POSTULANTES</h1>
         <h2 className='subtitulo'>¿Estás buscando un nuevo candidato para tu empresa?</h2>
         <p className='parrafo'>Revisá los perfiles añadidos de nuestros postulantes, podes visualizar su CV y concretar una entrevista.</p>
         <div className='d-flex justify-content-center aling-items-center'>

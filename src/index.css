@@ -12,7 +12,7 @@ body {
 }
 
 .titulo, .subtitulo, .parrafo{
-  margin:20px;
+  margin:15px;
 }
 .section{
   display: flex;
